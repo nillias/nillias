@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on UI?UX Desing
+- 🔭 I’m currently working on UI/UX Desing
 - 🌱 I’m currently learning Swift
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like dinosaurs
