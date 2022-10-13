@@ -39,5 +39,8 @@
 [![@nillias's Holopin board](https://holopin.io/api/user/board?user=nillias)](https://holopin.io/@nillias)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?nillias=Your_GitHub_Username)
+
+<a href="https://github.com/nillias/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?nillias=nillias&style=for-the-badge">
+</a>
 
