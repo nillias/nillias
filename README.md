@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I like dinosaurs
 
 
+
 <!-- Estatus do git -->
 <div align="center">
   <a href="https://github.com/nillias">
